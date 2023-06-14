@@ -4,3 +4,5 @@ bootstrap
 env-vars.json
 samconfig.toml
 bin
+.idea
+my_deployments
